@@ -24,7 +24,7 @@ border_color = #FFFFFF 68
 # Panel
 panel_monitor = all
 panel_position = bottom center horizontal
-panel_size = 100% 36
+panel_size = 100% 30
 panel_margin = 0 0
 panel_padding = 7 0 7
 panel_dock = 0
@@ -81,9 +81,9 @@ systray_icon_asb = 70 0 0
 
 # Clock
 time1_format = %H:%M
-time1_font = Ubuntu Bold 13
+time1_font = Ubuntu Bold 12
 time2_format = %Y-%m-%d, %a
-time2_font = Ubuntu 10
+time2_font = Ubuntu 9
 clock_font_color = #FFFFFF 74
 clock_padding = 1 0
 clock_background_id = 0
@@ -109,8 +109,8 @@ battery = 1
 battery_low_status = 10
 battery_low_cmd = notify-send "battery low"
 #battery_hide = 98
-bat1_font = Ubuntu 12
-bat2_font = Ubuntu 8
+bat1_font = Ubuntu Bold 12
+bat2_font = Ubuntu 9
 battery_font_color = #FFFFFF 74
 battery_padding = 1 0
 battery_background_id = 0
