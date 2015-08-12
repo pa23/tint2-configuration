@@ -1,3 +1,7 @@
 default.tint2rc
 tint2confrc
 *.jpg
+horizontal*
+icon*
+text*
+vertical*
